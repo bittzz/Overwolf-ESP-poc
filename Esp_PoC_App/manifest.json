@@ -1,0 +1,43 @@
+{
+  "manifest_version":"1",
+  "type":"WebApp",
+  "meta":
+  {
+    "name":"Overwolf ESP PoC",
+    "version":"1.0.0.0",
+    "minimum-overwolf-version": "0.85.0.0",
+    "author":"UC bittzz",
+    "icon":"icon.png",
+    "icon_gray":"icon_gray.png",
+    "description":"Overwolf ESP PoC"
+  },
+  "permissions": ["Extensions"],
+  "data": 
+  {
+    "start_window":"index",	  
+    "windows":
+	{
+      "index":
+	  {
+        "file":"index.html",
+        "transparent":true,
+        "resizable":true,
+		"clickthrough":true,
+		"ignore_keyboard_events":true,
+		"in_game_only":false,
+        "show_in_taskbar": false,
+		"disable_blur": true,
+		"size":{"width":480, "height":480},
+		"start_position": {"top": 0, "left": 0}
+      }
+    },	
+	"extra-objects": 
+	{
+      "esp-poc-plugin": 
+	  {
+        "file": "esp-poc-plugin.dll",
+        "class": "esp_poc_plugin.EspPocPlugin"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\bin\x64\Release\esp-poc-plugin.dll
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\bin\x64\Release\esp-poc-plugin.pdb
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\bin\x64\Release\ProcessMemoryUtilities.dll
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\bin\x64\Release\SlimDX.dll
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\bin\x64\Release\ProcessMemoryUtilities.xml
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\bin\x64\Release\SlimDX.pdb
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\bin\x64\Release\SlimDX.xml
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\obj\x64\Release\esp-poc-plugin.csprojAssemblyReference.cache
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\obj\x64\Release\esp-poc-plugin.csproj.CoreCompileInputs.cache
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\obj\x64\Release\esp-poc-plugin.csproj.CopyComplete
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\obj\x64\Release\esp-poc-plugin.dll
+C:\Users\menba\source\repos\esp-poc-plugin\esp-poc-plugin\obj\x64\Release\esp-poc-plugin.pdb
